@@ -1,7 +1,9 @@
 
+
+
 # ChatBot Project
 
-
+Before Setting Up Your Frontend, Please Set Up Your [Backend](https://github.com/senadmustafi/ChatBot_Backend). :bangbang:
 
 ## Getting Started
 
